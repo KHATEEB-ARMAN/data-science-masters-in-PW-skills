@@ -1,0 +1,16 @@
+'Guido van rossum' devoloped python programming launguage.
+Python supports object oriented and structured programming.
+Python is case sensitive launguage.
+the correct extension is ".py" or".pyi'.
+Python is interpreted launguage.
+a module,functio body.
+"#" is used for single line comment.
+"sys.version".
+"lamda"
+PIP stand for"preferred installer program".
+range(),type(),print(),bytes().
+79 character is the maximmum length.
+easy to use, more inbuilt libraries,  easy to analyze the data.
+memory is managed by "python private heap space".
+right click to my computer click advanced system setting,click environment varible tab and click new tab of user varibales,write path in varible name copy path to folder.
+The indentation in Python is very important.
